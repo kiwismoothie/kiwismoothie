@@ -12,4 +12,4 @@ Hi there 👋, I'm Laura!
 
 - 🤓 I'm also studiyng to get my final web dev <a href="https://www.francecompetences.fr/recherche/rncp/35653/">certification</a>! 
 
-🎅 Happy Christmas holiday to you all!
+🥳 Happy 2024 to you all!
