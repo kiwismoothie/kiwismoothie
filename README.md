@@ -10,6 +10,6 @@ Hi there 👋, I'm Laura!
   
 - ⚡ Fun fact: I'm also a novel author. Will auto publish on amazon very soon!
 
-- 🤓 I'm also studiyng to get my final web dev <a href="https://www.francecompetences.fr/recherche/rncp/35653/">certification</a>! 
+- 🤓 I just got my <a href="https://www.francecompetences.fr/recherche/rncp/35653/">certification</a>! 
 
 🥳 Happy 2024 to you all!
