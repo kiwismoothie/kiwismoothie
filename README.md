@@ -2,7 +2,7 @@ Hi there 👋, I'm Laura!
 
 - 🌱 I just got out of le Wagon bootcamp where I learnt HTML, CSS, Sass, Bootstrap, JavaScript ES6, Stimulus, Figma, PostgreSQL, git, GitHub, Heroku and Ruby on Rails
 
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on my website "Coworkers", check <a href="https://www.coworkers-app.com">it</a> out !
   
 - 👯 I’m looking to collaborate on any project based on a language I studied at the bootcamp
 
